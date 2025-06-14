@@ -17,7 +17,7 @@ A simple, beginner-friendly web app that shows real-time weather information for
 
 ## 🚀 Live Demo
 
-[🔗 View Live Demo](#)
+[🔗 View Live Demo](#https://meet-pramanikk.github.io/Weather-app/)
 
 ---
 
