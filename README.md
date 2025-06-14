@@ -3,6 +3,13 @@
 A simple, beginner-friendly web app that shows real-time weather information for any city using open APIs.
 
 ---
+---
+
+## 🚀 Live Demo
+
+[🔗 View Live Demo](https://meet-pramanikk.github.io/Weather-app/)
+
+---
 
 ## 🔧 Features
 
@@ -13,13 +20,6 @@ A simple, beginner-friendly web app that shows real-time weather information for
 - 🚫 Error handling for invalid city names  
 - ⚡ Fast and responsive, using vanilla JavaScript  
 
----
-
-## 🚀 Live Demo
-
-[🔗 View Live Demo](#https://meet-pramanikk.github.io/Weather-app/)
-
----
 
 ## 🛠️ Tech Stack
 
